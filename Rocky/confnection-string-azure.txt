@@ -1,0 +1,1 @@
+Data Source=tcp:rocky-cruddbservertest.database.windows.net,1433;Initial Catalog=Rocky_CRUD_db;User Id=sagalarzal@rocky-cruddbservertest;Password=u6,u5,e6,
